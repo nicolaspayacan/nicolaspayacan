@@ -3,7 +3,7 @@
 - nicolas.payacan@gmail.com
 - Mendoza, Argentina
 
-Software Technical Leader with knowledge in native Android Development applied to make stable money transfer flows for multiple country sites.
+Software Technical Leader with knowledge in native Android Development applied to make stable money transfer flows for multiple countries.
 
 ## Tech Stack
 - Android
@@ -50,4 +50,4 @@ Vënon is a software consulting company dedicated to building custom software so
 - Added custom features to 'La Voz' journal SugarCRM platform. 
 
 ## Education
-- Systems Engineering - UTN -- 2013-2019(not completed)
+- Systems Engineering, UTN -- 2013-2019(not completed)
