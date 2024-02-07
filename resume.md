@@ -15,7 +15,7 @@ Software Technical Leader with knowledge in native Android Development applied t
 
 ### Software Technical Leader, Mercado Pago Mar 2023 -- Current
 
-Mercado Pago is an argentinian fintech company dedicated to payments, money transfers and investments in multiple countries of Latin America.
+Mercado Pago is an Argentinian fintech company dedicated to payments, money transfers and investments in multiple countries of Latin America.
 
 - Mentoring, coaching, and growth contributions across multiple teams
 - Advocate for best development practices and codebase quality assurance
@@ -48,3 +48,6 @@ Vënon is a software consulting company dedicated to building custom software so
 - Development of GIS app to control security personnel - Xamarin Android
 - Security access and gate control app - Microsoft .NET Framework
 - Added custom features to 'La Voz' journal SugarCRM platform. 
+
+## Education
+- Systems Engineering - UTN -- 2013-2019(not completed)
