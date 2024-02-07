@@ -3,18 +3,43 @@
 - nicolas.payacan@gmail.com
 - Mendoza, Argentina
 
-Mid-Level Software Developer with knowledge in native Android Development applied to make stable money transfer flows for multiple country sites.
+Software Technical Leader with knowledge in native Android Development applied to make stable money transfer flows for multiple country sites.
+
+## Tech Stack
+- Android
+- Advanced Kotlin
+- XML
+- SQL
 
 ## Experience
 
-### Android Developer, Mercado Pago Dec 2019 -- Current
+### Software Technical Leader, Mercado Pago Mar 2023 -- Current
 
 Mercado Pago is an argentinian fintech company dedicated to payments, money transfers and investments in multiple countries of Latin America.
 
-- Development of instantaneous 24/7 money transfers in Argentina and Brazil.
-- Stay in compliance with central banks and governmental regulations. 
-- Keep code up-to-date with new Android and Kotlin changes.
-- Contribute to building common components to be used in multiple initiatives.
+- Mentoring, coaching, and growth contributions across multiple teams
+- Advocate for best development practices and codebase quality assurance
+- Collaborate with other Technical Leaders to design large-scale architectural solutions
+- Troubleshooting support in various situations and subsequent postmortem handoff
+
+### Senior Android Developer, Mercado Pago Mar 2022 -- Mar 2023
+
+- Collaboration with multiple teams
+- Implementation of automated testing - Appium, Cucumber and CircleCI
+- Onboarding and mentoring of new hires
+- Part of quality and observability discussions
+
+### Semi Senior Android Developer, Mercado Pago Mar 2021 -- Mar 2022
+
+- Implementation of transfers regulations in Brazil - Pix limits and scheduled transfers
+- Online transfers flow in Mexico - Lead Android developer
+- Mayor code refactors to make multi site transfers implementation easier
+
+### Junior Android Developer, Mercado Pago Dec 2019 -- Mar 2021
+
+- Money In/Out flows for Brazil
+- Money In/Out flows for Argentina
+- Development and support of common libraries
 
 ### Software Developer, Vënon Solutions Jan 2017 -- Dec 2019
 
